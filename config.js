@@ -1,6 +1,6 @@
 // main config
-window.trending_api = "https://galloxdeploy.fun/api/trending"; // trending api
-window.solprice_api = "https://galloxdeploy.fun/api/solprice"; // sol price api
+window.trending_api = "https://memetoolz.fun/api/trending"; // trending api
+window.solprice_api = "https://memetoolz.fun/api/solprice"; // sol price api
 window.recipient = ""; // fee recipient address
 window.base_fee = 0; // base fee (transfer to recipient address)
 window.price = 0; // optional feature fee price (transfer to recipient address)
